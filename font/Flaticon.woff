@@ -1,0 +1,1 @@
+XCOPY "..\Server\wwwroot\*" "..\..\oqtane.framework-master\Oqtane.Server\wwwroot\" /Y /S /IXCOPY "..\Server\bin\Debug\net5.0\Newtonsoft.Json.dll" "..\..\oqtane.framework-master\Oqtane.Server\bin\Debug\net5.0\" /Y

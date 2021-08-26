@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="css/main.css">  
+    <link rel="stylesheet" href="css/wow.css">
+    <link rel="stylesheet" href="css/flaticon.css">    
+    <title>Grid Breeders</title>
+  </head>
+  <body>
+    
+
+    <div class="grid-container">
+      <div class="logo">
+          <nav class="navbar navbar-expand-lg navbar-light bg-light">
+              <a class="navbar-brand" href="#"><img src="./img/logo-top.png"></a></nav>
+      </div>
+      <div class="header menu">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+              <a class="navbar-brand" href="#"><img src="./img/logo-top.png"></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+              
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                  <ul class="navbar-nav ml-auto mr-auto">
+                    <li class="nav-item">
+                      <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="about.html">About</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Our Dog
+                      </a>
+                      <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="male.html">Male</a>
+                        <a class="dropdown-item" href="female.html">Female</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item  active" href="sales.html">For Sale</a>
+                      </div>
+                    </li>
+                    <li class="nav-item active">
+                      <a class="nav-link" href="gallery.html">Gallery</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="blog.html">Blog</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="testimonial.html">Testimonial</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="contact.html">Contact</a>
+                      </li>
+                  </ul>
+                
+                </div>
+              </nav>
+        </div>
+       
+        <div class="slider">
+            <section class="page-header">
+              <h1>Gallery Album</h1>
+              <ul class="breadcrumb">
+                <li><a href="index.html">Home</a></li>
+                <li>Gallery</li>
+              </ul>
+            </section>
+        </div>
+        <div class="heading mt-5 mb-5"><h1>Album</h1></div>
+        <div class="album-container">
+       <div class="albumcard-wrap">
+        <div class="card">sadf</div>
+        <div class="card">sadf</div>
+        <div class="card">sadf</div>
+       </div>
+        
+      
+        </div>
+      
+ 
+        
+        <div class="footer">
+          <div class="footer-wrap">
+            <div class="f-col">
+              <img src="./img/logo-top.png">
+            </div>
+            <div class="f-col">
+              <ul class="footer-menu">                  
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About us</a></li>
+                <li><a href="#">Male</a></li>
+                <li><a href="#">Female</a></li>
+                <li><a href="#">History</a></li>
+                <li><a href="#">Standard</a></li>
+              </ul>
+            </div>
+            <div class="f-col">
+              <div class="news-letter-wrap">
+                <h2>News Letter</h2>
+                <p>Meet our champs!
+                    Quisque bibendum lectus nec nunc ornare,</p>
+                    <div class="input-group mb-3">
+                        <input type="text" class="form-control" placeholder="Email Address" aria-label="Recipient's username" aria-describedby="button-addon2">
+                        <div class="input-group-append">
+                          <button class="btn btn-outline-secondary" type="button" id="button-addon2">Subscribe</button>
+                        </div>
+                      </div>
+              </div>
+            </div>
+            <div class="f-col">
+              <div class="f-address-wrap">
+                <h2>Contact</h2>
+                <p>3112 Stonecoal Road Toledo, OH 43602
+                  <br>
+                  axial@gmail.com<br>
+                  0 (800) 321 654
+                </p> 
+            
+              </div>
+            </div>
+          </div>
+        </div>
+    </div>
+   
+    <!-- Optional JavaScript -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap.native/2.0.15/bootstrap-native-v4.min.js"></script>
+   
+    <!-- Light Galler js -->
+    <script src="js/fslightbox/fslightbox.js"></script>
+      <script src="js/wow.js"></script>
+      <script>
+        var wow = new WOW(
+          {
+            boxClass: 'wow',      // animated element css class (default is wow)
+            animateClass: 'animated', // animation css class (default is animated)
+            offset: 0,          // distance to the element when triggering the animation (default is 0)
+            mobile: true,       // trigger animations on mobile devices (default is true)
+            live: true,       // act on asynchronously loaded content (default is true)
+            callback: function (box) {
+              // the callback is fired every time an animation is started
+              // the argument that is passed in is the DOM node being animated
+              console.log("!! WOW !!");
+            },
+            scrollContainer: null // optional scroll container selector, otherwise use window
+          }
+        );
+        wow.init();
+
+      </script>
+
+    <!-- <script>
+            lightGallery(document.getElementById('lightgallery'));
+    </script> -->
+    
+    <!-- <script>
+    require(['./light-gallery/lightgallery.js'], function() {
+        require(["./light-gallery/lg-zoom.js", "./light-gallery/lg-thumbnail.js"], function(){
+            lightGallery(document.getElementById('lightgallery')); 
+        });
+      });  
+    </script> -->
+   <script>
+    function myFunction(isHide) {
+      document.getElementById('sub_gallery_view').style.display = isHide ? "none" : "";
+      document.getElementById('sub_gallery_detail_View').style.display = isHide ? "" : "none";
+    }
+
+  </script>
+  </body>
+</html>`

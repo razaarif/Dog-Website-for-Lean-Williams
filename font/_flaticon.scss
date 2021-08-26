@@ -1,0 +1,356 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 13/03/2019 13:40
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-instagram:before { content: "\f100"; }
+.flaticon-heart:before { content: "\f101"; }
+.flaticon-facebook:before { content: "\f102"; }
+.flaticon-youtube:before { content: "\f103"; }
+.flaticon-user:before { content: "\f104"; }
+.flaticon-whatsapp:before { content: "\f105"; }
+.flaticon-twitter:before { content: "\f106"; }
+.flaticon-email:before { content: "\f107"; }
+.flaticon-pin:before { content: "\f108"; }
+.flaticon-messenger:before { content: "\f109"; }
+.flaticon-linkedin:before { content: "\f10a"; }
+.flaticon-notification:before { content: "\f10b"; }
+.flaticon-telegram:before { content: "\f10c"; }
+.flaticon-network:before { content: "\f10d"; }
+.flaticon-image:before { content: "\f10e"; }
+.flaticon-worldwide:before { content: "\f10f"; }
+.flaticon-network-1:before { content: "\f110"; }
+.flaticon-like:before { content: "\f111"; }
+.flaticon-hashtag:before { content: "\f112"; }
+.flaticon-playstore:before { content: "\f113"; }
+.flaticon-like-1:before { content: "\f114"; }
+.flaticon-star:before { content: "\f115"; }
+.flaticon-happy:before { content: "\f116"; }
+.flaticon-photo-camera:before { content: "\f117"; }
+.flaticon-chat:before { content: "\f118"; }
+.flaticon-happy-1:before { content: "\f119"; }
+.flaticon-windows:before { content: "\f11a"; }
+.flaticon-rss:before { content: "\f11b"; }
+.flaticon-agenda:before { content: "\f11c"; }
+.flaticon-skype:before { content: "\f11d"; }
+.flaticon-cloud-computing:before { content: "\f11e"; }
+.flaticon-information:before { content: "\f11f"; }
+.flaticon-paypal:before { content: "\f120"; }
+.flaticon-behance:before { content: "\f121"; }
+.flaticon-sad:before { content: "\f122"; }
+.flaticon-dislike:before { content: "\f123"; }
+.flaticon-file:before { content: "\f124"; }
+.flaticon-shopping-cart:before { content: "\f125"; }
+.flaticon-network-2:before { content: "\f126"; }
+.flaticon-track:before { content: "\f127"; }
+.flaticon-vimeo:before { content: "\f128"; }
+.flaticon-bone:before { content: "\f129"; }
+.flaticon-flickr:before { content: "\f12a"; }
+.flaticon-pawprint:before { content: "\f12b"; }
+.flaticon-suitcase:before { content: "\f12c"; }
+.flaticon-telephone:before { content: "\f12d"; }
+.flaticon-contract:before { content: "\f12e"; }
+.flaticon-wall-clock:before { content: "\f12f"; }
+.flaticon-arroba:before { content: "\f130"; }
+.flaticon-calendar:before { content: "\f131"; }
+.flaticon-house:before { content: "\f132"; }
+.flaticon-google-plus-outlined-logo-social-symbol:before { content: "\f133"; }
+.flaticon-pinterest-outlined-logo:before { content: "\f134"; }
+.flaticon-android-social-outlined-logo:before { content: "\f135"; }
+.flaticon-apple-social-logo-outline:before { content: "\f136"; }
+.flaticon-menu:before { content: "\f137"; }
+.flaticon-menu-1:before { content: "\f138"; }
+.flaticon-down-chevron:before { content: "\f139"; }
+.flaticon-right-chevron:before { content: "\f13a"; }
+.flaticon-left-chevron:before { content: "\f13b"; }
+.flaticon-fullscreen:before { content: "\f13c"; }
+.flaticon-close:before { content: "\f13d"; }
+.flaticon-more:before { content: "\f13e"; }
+.flaticon-back:before { content: "\f13f"; }
+.flaticon-cancel:before { content: "\f140"; }
+.flaticon-refresh:before { content: "\f141"; }
+.flaticon-up-chevron:before { content: "\f142"; }
+.flaticon-checked:before { content: "\f143"; }
+.flaticon-more-1:before { content: "\f144"; }
+.flaticon-next:before { content: "\f145"; }
+.flaticon-down-arrow:before { content: "\f146"; }
+.flaticon-minimize:before { content: "\f147"; }
+.flaticon-left-arrow:before { content: "\f148"; }
+.flaticon-unfold:before { content: "\f149"; }
+.flaticon-down-arrow-1:before { content: "\f14a"; }
+.flaticon-up-arrow:before { content: "\f14b"; }
+.flaticon-down-arrow-2:before { content: "\f14c"; }
+.flaticon-back-1:before { content: "\f14d"; }
+.flaticon-unfold-1:before { content: "\f14e"; }
+.flaticon-skip:before { content: "\f14f"; }
+.flaticon-right-arrow:before { content: "\f150"; }
+.flaticon-up-arrow-1:before { content: "\f151"; }
+.flaticon-view:before { content: "\f152"; }
+.flaticon-animal-paw-print:before { content: "\f153"; }
+.flaticon-dog-bone:before { content: "\f154"; }
+.flaticon-prize-badge-with-paw-print:before { content: "\f155"; }
+.flaticon-dog-face:before { content: "\f156"; }
+.flaticon-face-of-staring-dog:before { content: "\f157"; }
+.flaticon-tennis-ball:before { content: "\f158"; }
+.flaticon-belt-and-buckle:before { content: "\f159"; }
+.flaticon-border-collie-head:before { content: "\f15a"; }
+.flaticon-border-collie-dog-head:before { content: "\f15b"; }
+.flaticon-dog-face-1:before { content: "\f15c"; }
+.flaticon-dog-with-chubby-cheeks:before { content: "\f15d"; }
+.flaticon-angry-bulldog-face:before { content: "\f15e"; }
+.flaticon-dog-head:before { content: "\f15f"; }
+.flaticon-dog-with-long-ears:before { content: "\f160"; }
+.flaticon-dog-kennel:before { content: "\f161"; }
+.flaticon-bone-1:before { content: "\f162"; }
+.flaticon-care:before { content: "\f163"; }
+.flaticon-insecticide:before { content: "\f164"; }
+.flaticon-vaccine:before { content: "\f165"; }
+.flaticon-grooming:before { content: "\f166"; }
+.flaticon-jack-russell-terrier:before { content: "\f167"; }
+.flaticon-husky:before { content: "\f168"; }
+.flaticon-poodle:before { content: "\f169"; }
+.flaticon-dachshund:before { content: "\f16a"; }
+.flaticon-kurzhaar:before { content: "\f16b"; }
+.flaticon-bulldog:before { content: "\f16c"; }
+.flaticon-pomeranian:before { content: "\f16d"; }
+.flaticon-border-collie:before { content: "\f16e"; }
+.flaticon-french-bulldog:before { content: "\f16f"; }
+.flaticon-pug:before { content: "\f170"; }
+.flaticon-basset-houd:before { content: "\f171"; }
+.flaticon-english-cocker-spaniel:before { content: "\f172"; }
+.flaticon-american-staffordshire-terrier:before { content: "\f173"; }
+.flaticon-chow-chow:before { content: "\f174"; }
+.flaticon-yorkshire-terrier:before { content: "\f175"; }
+.flaticon-beagle:before { content: "\f176"; }
+.flaticon-corgi:before { content: "\f177"; }
+.flaticon-doberman:before { content: "\f178"; }
+.flaticon-chihuahua:before { content: "\f179"; }
+.flaticon-bernese-mountain:before { content: "\f17a"; }
+.flaticon-dalmatian:before { content: "\f17b"; }
+.flaticon-greyhound:before { content: "\f17c"; }
+.flaticon-saluki:before { content: "\f17d"; }
+.flaticon-pharaoh-hound:before { content: "\f17e"; }
+.flaticon-akitas:before { content: "\f17f"; }
+.flaticon-collie:before { content: "\f180"; }
+.flaticon-mastiff:before { content: "\f181"; }
+.flaticon-airedale:before { content: "\f182"; }
+.flaticon-bichon-frise:before { content: "\f183"; }
+.flaticon-rottweiler:before { content: "\f184"; }
+.flaticon-bichon:before { content: "\f185"; }
+.flaticon-bullterrier:before { content: "\f186"; }
+.flaticon-german-sheperd:before { content: "\f187"; }
+.flaticon-pointer:before { content: "\f188"; }
+.flaticon-shar-pei:before { content: "\f189"; }
+.flaticon-malamute:before { content: "\f18a"; }
+.flaticon-shih-tzu:before { content: "\f18b"; }
+.flaticon-bullmastiff:before { content: "\f18c"; }
+.flaticon-sheltie:before { content: "\f18d"; }
+.flaticon-boxer:before { content: "\f18e"; }
+.flaticon-bedlington-terrier:before { content: "\f18f"; }
+.flaticon-newfoundland:before { content: "\f190"; }
+.flaticon-springer-spaniel:before { content: "\f191"; }
+.flaticon-tibetan-mastiff:before { content: "\f192"; }
+.flaticon-chinese-crested:before { content: "\f193"; }
+.flaticon-english-mastiff:before { content: "\f194"; }
+.flaticon-afghan-hound:before { content: "\f195"; }
+.flaticon-st-bernard:before { content: "\f196"; }
+.flaticon-japanese-chin:before { content: "\f197"; }
+.flaticon-miniature-schnauzer:before { content: "\f198"; }
+.flaticon-tools-and-utensils:before { content: "\f199"; }
+.flaticon-vaccine-1:before { content: "\f19a"; }
+.flaticon-placeholder:before { content: "\f19b"; }
+.flaticon-call:before { content: "\f19c"; }
+.flaticon-info:before { content: "\f19d"; }
+    
+    $font-Flaticon-instagram: "\f100";
+    $font-Flaticon-heart: "\f101";
+    $font-Flaticon-facebook: "\f102";
+    $font-Flaticon-youtube: "\f103";
+    $font-Flaticon-user: "\f104";
+    $font-Flaticon-whatsapp: "\f105";
+    $font-Flaticon-twitter: "\f106";
+    $font-Flaticon-email: "\f107";
+    $font-Flaticon-pin: "\f108";
+    $font-Flaticon-messenger: "\f109";
+    $font-Flaticon-linkedin: "\f10a";
+    $font-Flaticon-notification: "\f10b";
+    $font-Flaticon-telegram: "\f10c";
+    $font-Flaticon-network: "\f10d";
+    $font-Flaticon-image: "\f10e";
+    $font-Flaticon-worldwide: "\f10f";
+    $font-Flaticon-network-1: "\f110";
+    $font-Flaticon-like: "\f111";
+    $font-Flaticon-hashtag: "\f112";
+    $font-Flaticon-playstore: "\f113";
+    $font-Flaticon-like-1: "\f114";
+    $font-Flaticon-star: "\f115";
+    $font-Flaticon-happy: "\f116";
+    $font-Flaticon-photo-camera: "\f117";
+    $font-Flaticon-chat: "\f118";
+    $font-Flaticon-happy-1: "\f119";
+    $font-Flaticon-windows: "\f11a";
+    $font-Flaticon-rss: "\f11b";
+    $font-Flaticon-agenda: "\f11c";
+    $font-Flaticon-skype: "\f11d";
+    $font-Flaticon-cloud-computing: "\f11e";
+    $font-Flaticon-information: "\f11f";
+    $font-Flaticon-paypal: "\f120";
+    $font-Flaticon-behance: "\f121";
+    $font-Flaticon-sad: "\f122";
+    $font-Flaticon-dislike: "\f123";
+    $font-Flaticon-file: "\f124";
+    $font-Flaticon-shopping-cart: "\f125";
+    $font-Flaticon-network-2: "\f126";
+    $font-Flaticon-track: "\f127";
+    $font-Flaticon-vimeo: "\f128";
+    $font-Flaticon-bone: "\f129";
+    $font-Flaticon-flickr: "\f12a";
+    $font-Flaticon-pawprint: "\f12b";
+    $font-Flaticon-suitcase: "\f12c";
+    $font-Flaticon-telephone: "\f12d";
+    $font-Flaticon-contract: "\f12e";
+    $font-Flaticon-wall-clock: "\f12f";
+    $font-Flaticon-arroba: "\f130";
+    $font-Flaticon-calendar: "\f131";
+    $font-Flaticon-house: "\f132";
+    $font-Flaticon-google-plus-outlined-logo-social-symbol: "\f133";
+    $font-Flaticon-pinterest-outlined-logo: "\f134";
+    $font-Flaticon-android-social-outlined-logo: "\f135";
+    $font-Flaticon-apple-social-logo-outline: "\f136";
+    $font-Flaticon-menu: "\f137";
+    $font-Flaticon-menu-1: "\f138";
+    $font-Flaticon-down-chevron: "\f139";
+    $font-Flaticon-right-chevron: "\f13a";
+    $font-Flaticon-left-chevron: "\f13b";
+    $font-Flaticon-fullscreen: "\f13c";
+    $font-Flaticon-close: "\f13d";
+    $font-Flaticon-more: "\f13e";
+    $font-Flaticon-back: "\f13f";
+    $font-Flaticon-cancel: "\f140";
+    $font-Flaticon-refresh: "\f141";
+    $font-Flaticon-up-chevron: "\f142";
+    $font-Flaticon-checked: "\f143";
+    $font-Flaticon-more-1: "\f144";
+    $font-Flaticon-next: "\f145";
+    $font-Flaticon-down-arrow: "\f146";
+    $font-Flaticon-minimize: "\f147";
+    $font-Flaticon-left-arrow: "\f148";
+    $font-Flaticon-unfold: "\f149";
+    $font-Flaticon-down-arrow-1: "\f14a";
+    $font-Flaticon-up-arrow: "\f14b";
+    $font-Flaticon-down-arrow-2: "\f14c";
+    $font-Flaticon-back-1: "\f14d";
+    $font-Flaticon-unfold-1: "\f14e";
+    $font-Flaticon-skip: "\f14f";
+    $font-Flaticon-right-arrow: "\f150";
+    $font-Flaticon-up-arrow-1: "\f151";
+    $font-Flaticon-view: "\f152";
+    $font-Flaticon-animal-paw-print: "\f153";
+    $font-Flaticon-dog-bone: "\f154";
+    $font-Flaticon-prize-badge-with-paw-print: "\f155";
+    $font-Flaticon-dog-face: "\f156";
+    $font-Flaticon-face-of-staring-dog: "\f157";
+    $font-Flaticon-tennis-ball: "\f158";
+    $font-Flaticon-belt-and-buckle: "\f159";
+    $font-Flaticon-border-collie-head: "\f15a";
+    $font-Flaticon-border-collie-dog-head: "\f15b";
+    $font-Flaticon-dog-face-1: "\f15c";
+    $font-Flaticon-dog-with-chubby-cheeks: "\f15d";
+    $font-Flaticon-angry-bulldog-face: "\f15e";
+    $font-Flaticon-dog-head: "\f15f";
+    $font-Flaticon-dog-with-long-ears: "\f160";
+    $font-Flaticon-dog-kennel: "\f161";
+    $font-Flaticon-bone-1: "\f162";
+    $font-Flaticon-care: "\f163";
+    $font-Flaticon-insecticide: "\f164";
+    $font-Flaticon-vaccine: "\f165";
+    $font-Flaticon-grooming: "\f166";
+    $font-Flaticon-jack-russell-terrier: "\f167";
+    $font-Flaticon-husky: "\f168";
+    $font-Flaticon-poodle: "\f169";
+    $font-Flaticon-dachshund: "\f16a";
+    $font-Flaticon-kurzhaar: "\f16b";
+    $font-Flaticon-bulldog: "\f16c";
+    $font-Flaticon-pomeranian: "\f16d";
+    $font-Flaticon-border-collie: "\f16e";
+    $font-Flaticon-french-bulldog: "\f16f";
+    $font-Flaticon-pug: "\f170";
+    $font-Flaticon-basset-houd: "\f171";
+    $font-Flaticon-english-cocker-spaniel: "\f172";
+    $font-Flaticon-american-staffordshire-terrier: "\f173";
+    $font-Flaticon-chow-chow: "\f174";
+    $font-Flaticon-yorkshire-terrier: "\f175";
+    $font-Flaticon-beagle: "\f176";
+    $font-Flaticon-corgi: "\f177";
+    $font-Flaticon-doberman: "\f178";
+    $font-Flaticon-chihuahua: "\f179";
+    $font-Flaticon-bernese-mountain: "\f17a";
+    $font-Flaticon-dalmatian: "\f17b";
+    $font-Flaticon-greyhound: "\f17c";
+    $font-Flaticon-saluki: "\f17d";
+    $font-Flaticon-pharaoh-hound: "\f17e";
+    $font-Flaticon-akitas: "\f17f";
+    $font-Flaticon-collie: "\f180";
+    $font-Flaticon-mastiff: "\f181";
+    $font-Flaticon-airedale: "\f182";
+    $font-Flaticon-bichon-frise: "\f183";
+    $font-Flaticon-rottweiler: "\f184";
+    $font-Flaticon-bichon: "\f185";
+    $font-Flaticon-bullterrier: "\f186";
+    $font-Flaticon-german-sheperd: "\f187";
+    $font-Flaticon-pointer: "\f188";
+    $font-Flaticon-shar-pei: "\f189";
+    $font-Flaticon-malamute: "\f18a";
+    $font-Flaticon-shih-tzu: "\f18b";
+    $font-Flaticon-bullmastiff: "\f18c";
+    $font-Flaticon-sheltie: "\f18d";
+    $font-Flaticon-boxer: "\f18e";
+    $font-Flaticon-bedlington-terrier: "\f18f";
+    $font-Flaticon-newfoundland: "\f190";
+    $font-Flaticon-springer-spaniel: "\f191";
+    $font-Flaticon-tibetan-mastiff: "\f192";
+    $font-Flaticon-chinese-crested: "\f193";
+    $font-Flaticon-english-mastiff: "\f194";
+    $font-Flaticon-afghan-hound: "\f195";
+    $font-Flaticon-st-bernard: "\f196";
+    $font-Flaticon-japanese-chin: "\f197";
+    $font-Flaticon-miniature-schnauzer: "\f198";
+    $font-Flaticon-tools-and-utensils: "\f199";
+    $font-Flaticon-vaccine-1: "\f19a";
+    $font-Flaticon-placeholder: "\f19b";
+    $font-Flaticon-call: "\f19c";
+    $font-Flaticon-info: "\f19d";
